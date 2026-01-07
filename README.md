@@ -1,6 +1,6 @@
 # 👋 Xin chào, mình là Khương
 
-**Senior Backend Engineer (Java)**  
+**Backend Engineer (Java)**  
 **Spring Boot · Microservices · Distributed Systems · System Architecture**
 
 ---
@@ -11,7 +11,7 @@ Mình là Backend Developer tập trung vào **xây dựng hệ thống backend 
 - Thiết kế & phát triển **microservices với Java & Spring Boot**
 - Làm việc với **distributed systems**, xử lý bất đồng bộ và dữ liệu nhất quán
 - Quan tâm sâu đến **architecture, clean code, scalability và reliability**
-- Có kinh nghiệm **chuẩn hoá codebase, CI/CD và mentoring junior**
+- Có kinh nghiệm **chuẩn hoá codebase, CI/CD và mentoring intern**
 - Hướng tới **open-source** và chia sẻ kiến thức kỹ thuật
 
 ---
